@@ -1,0 +1,1000 @@
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\GETFiT.dll.config
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\GETFiT.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\GETFiT.pdb
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\roslyn\csc.exe
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\roslyn\csc.exe.config
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\roslyn\csc.rsp
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\roslyn\csi.exe
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\roslyn\csi.exe.config
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\roslyn\csi.rsp
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\roslyn\Microsoft.Managed.Core.targets
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\roslyn\System.AppContext.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\roslyn\System.Collections.Immutable.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\roslyn\System.Console.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\roslyn\System.Globalization.Calendars.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\roslyn\System.IO.Compression.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\roslyn\System.IO.FileSystem.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\roslyn\System.Net.Http.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\roslyn\System.Net.Sockets.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\roslyn\System.Reflection.Metadata.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\roslyn\System.ValueTuple.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\roslyn\System.Xml.XmlDocument.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\roslyn\System.Xml.XPath.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\roslyn\vbc.exe
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\roslyn\vbc.exe.config
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\roslyn\vbc.rsp
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\roslyn\VBCSCompiler.exe
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\roslyn\VBCSCompiler.exe.config
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\Antlr3.Runtime.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\EntityFramework.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\EntityFramework.SqlServer.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\Microsoft.AspNet.Identity.Core.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\Microsoft.Owin.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Cookies.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\Microsoft.Owin.Security.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Facebook.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Google.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\Microsoft.Owin.Security.OAuth.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Twitter.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\Microsoft.Web.Infrastructure.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\Newtonsoft.Json.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\Owin.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\System.Web.Helpers.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\System.Web.Mvc.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\System.Web.Optimization.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\System.Web.Razor.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\System.Web.WebPages.Deployment.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\System.Web.WebPages.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\System.Web.WebPages.Razor.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\WebGrease.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\System.Web.Helpers.xml
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\System.Web.Mvc.xml
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\System.Web.Optimization.xml
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\System.Web.Razor.xml
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\System.Web.WebPages.xml
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\System.Web.WebPages.Deployment.xml
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\System.Web.WebPages.Razor.xml
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\Newtonsoft.Json.xml
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\Antlr3.Runtime.pdb
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\EntityFramework.xml
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\EntityFramework.SqlServer.xml
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\Microsoft.AspNet.Identity.Core.xml
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\Microsoft.Owin.xml
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\Microsoft.Owin.Security.xml
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Facebook.xml
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Cookies.xml
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Google.xml
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Twitter.xml
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\Microsoft.Owin.Security.OAuth.xml
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\obj\Debug\GETFiT.csprojAssemblyReference.cache
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\obj\Debug\GETFiT.csproj.CoreCompileInputs.cache
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\obj\Debug\GETFiT.csproj.CopyComplete
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\obj\Debug\GETFiT.dll
+D:\3.2\Core project\14 framework\GETFiT\GETFiT\obj\Debug\GETFiT.pdb
+D:\3.2\Core project\14 framework\GETFIT\GETFiT\bin\PagedList.dll
+D:\3.2\Core project\14 framework\GETFIT\GETFiT\bin\PagedList.Mvc.dll
+D:\3.2\Core project\14 framework\GETFIT\GETFiT\bin\Syncfusion.Compression.Base.dll
+D:\3.2\Core project\14 framework\GETFIT\GETFiT\bin\Syncfusion.Licensing.dll
+D:\3.2\Core project\14 framework\GETFIT\GETFiT\bin\Syncfusion.Pdf.Base.dll
+D:\3.2\Core project\14 framework\GETFIT\GETFiT\bin\System.Net.Http.Formatting.dll
+D:\3.2\Core project\14 framework\GETFIT\GETFiT\bin\System.Web.Http.dll
+D:\3.2\Core project\14 framework\GETFIT\GETFiT\bin\System.Web.Http.WebHost.dll
+D:\3.2\Core project\14 framework\GETFIT\GETFiT\bin\PagedList.xml
+D:\3.2\Core project\14 framework\GETFIT\GETFiT\bin\PagedList.Mvc.xml
+D:\3.2\Core project\14 framework\GETFIT\GETFiT\bin\Syncfusion.Compression.Base.xml
+D:\3.2\Core project\14 framework\GETFIT\GETFiT\bin\Syncfusion.Pdf.Base.xml
+D:\3.2\Core project\14 framework\GETFIT\GETFiT\bin\System.Net.Http.Formatting.xml
+D:\3.2\Core project\14 framework\GETFIT\GETFiT\bin\System.Web.Http.xml
+D:\3.2\Core project\14 framework\GETFIT\GETFiT\bin\System.Web.Http.WebHost.xml
+D:\3.2\Core project\14 framework\GETFIT\GETFiT\obj\Debug\GETFiT.Migrations.create.resources
+D:\3.2\Core project\14 framework\GETFIT\GETFiT\obj\Debug\GETFiT.csproj.GenerateResource.cache
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\GETFiT.dll.config
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\GETFiT.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\GETFiT.pdb
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\roslyn\csc.exe
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\roslyn\csc.exe.config
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\roslyn\csc.rsp
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\roslyn\csi.exe
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\roslyn\csi.exe.config
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\roslyn\csi.rsp
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\roslyn\Microsoft.Managed.Core.targets
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\roslyn\System.AppContext.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\roslyn\System.Collections.Immutable.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\roslyn\System.Console.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\roslyn\System.Globalization.Calendars.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\roslyn\System.IO.Compression.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\roslyn\System.IO.FileSystem.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\roslyn\System.Net.Http.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\roslyn\System.Net.Sockets.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\roslyn\System.Reflection.Metadata.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\roslyn\System.ValueTuple.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\roslyn\System.Xml.XmlDocument.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\roslyn\System.Xml.XPath.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\roslyn\vbc.exe
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\roslyn\vbc.exe.config
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\roslyn\vbc.rsp
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\roslyn\VBCSCompiler.exe
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\roslyn\VBCSCompiler.exe.config
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\Antlr3.Runtime.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\EntityFramework.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\EntityFramework.SqlServer.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\Microsoft.AspNet.Identity.Core.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\Microsoft.Owin.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Cookies.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\Microsoft.Owin.Security.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Facebook.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Google.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\Microsoft.Owin.Security.OAuth.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Twitter.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\Microsoft.Web.Infrastructure.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\Newtonsoft.Json.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\Owin.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\PagedList.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\PagedList.Mvc.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\Syncfusion.Compression.Base.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\Syncfusion.Licensing.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\Syncfusion.Pdf.Base.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\System.Net.Http.Formatting.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\System.Web.Helpers.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\System.Web.Http.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\System.Web.Http.WebHost.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\System.Web.Mvc.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\System.Web.Optimization.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\System.Web.Razor.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\System.Web.WebPages.Deployment.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\System.Web.WebPages.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\System.Web.WebPages.Razor.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\WebGrease.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\PagedList.xml
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\PagedList.Mvc.xml
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\Syncfusion.Compression.Base.xml
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\Syncfusion.Pdf.Base.xml
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\System.Net.Http.Formatting.xml
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\System.Web.Http.xml
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\System.Web.Http.WebHost.xml
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\System.Web.Helpers.xml
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\System.Web.Mvc.xml
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\System.Web.Optimization.xml
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\System.Web.Razor.xml
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\System.Web.WebPages.xml
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\System.Web.WebPages.Deployment.xml
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\System.Web.WebPages.Razor.xml
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\Newtonsoft.Json.xml
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\Antlr3.Runtime.pdb
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\EntityFramework.xml
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\EntityFramework.SqlServer.xml
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\Microsoft.AspNet.Identity.Core.xml
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\Microsoft.Owin.xml
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\Microsoft.Owin.Security.xml
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Facebook.xml
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Cookies.xml
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Google.xml
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Twitter.xml
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\Microsoft.Owin.Security.OAuth.xml
+D:\3.2\Core project\15\GETFiT\GETFiT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\3.2\Core project\15\GETFiT\GETFiT\obj\Debug\GETFiT.csprojAssemblyReference.cache
+D:\3.2\Core project\15\GETFiT\GETFiT\obj\Debug\GETFiT.Migrations.create.resources
+D:\3.2\Core project\15\GETFiT\GETFiT\obj\Debug\GETFiT.csproj.GenerateResource.cache
+D:\3.2\Core project\15\GETFiT\GETFiT\obj\Debug\GETFiT.csproj.CoreCompileInputs.cache
+D:\3.2\Core project\15\GETFiT\GETFiT\obj\Debug\GETFiT.csproj.CopyComplete
+D:\3.2\Core project\15\GETFiT\GETFiT\obj\Debug\GETFiT.dll
+D:\3.2\Core project\15\GETFiT\GETFiT\obj\Debug\GETFiT.pdb
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\GETFiT.dll.config
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\GETFiT.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\GETFiT.pdb
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\roslyn\csc.exe
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\roslyn\csc.exe.config
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\roslyn\csc.rsp
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\roslyn\csi.exe
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\roslyn\csi.exe.config
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\roslyn\csi.rsp
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\roslyn\Microsoft.Managed.Core.targets
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\roslyn\System.AppContext.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\roslyn\System.Collections.Immutable.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\roslyn\System.Console.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\roslyn\System.Globalization.Calendars.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\roslyn\System.IO.Compression.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\roslyn\System.IO.FileSystem.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\roslyn\System.Net.Http.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\roslyn\System.Net.Sockets.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\roslyn\System.Reflection.Metadata.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\roslyn\System.ValueTuple.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\roslyn\System.Xml.XmlDocument.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\roslyn\System.Xml.XPath.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\roslyn\vbc.exe
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\roslyn\vbc.exe.config
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\roslyn\vbc.rsp
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\roslyn\VBCSCompiler.exe
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\roslyn\VBCSCompiler.exe.config
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\Antlr3.Runtime.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\EntityFramework.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\EntityFramework.SqlServer.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\Microsoft.AspNet.Identity.Core.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\Microsoft.Owin.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Cookies.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\Microsoft.Owin.Security.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Facebook.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Google.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\Microsoft.Owin.Security.OAuth.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Twitter.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\Microsoft.Web.Infrastructure.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\Newtonsoft.Json.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\Owin.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\PagedList.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\PagedList.Mvc.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\Syncfusion.Compression.Base.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\Syncfusion.Licensing.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\Syncfusion.Pdf.Base.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\System.Net.Http.Formatting.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\System.Web.Helpers.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\System.Web.Http.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\System.Web.Http.WebHost.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\System.Web.Mvc.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\System.Web.Optimization.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\System.Web.Razor.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\System.Web.WebPages.Deployment.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\System.Web.WebPages.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\System.Web.WebPages.Razor.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\WebGrease.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\PagedList.xml
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\PagedList.Mvc.xml
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\Syncfusion.Compression.Base.xml
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\Syncfusion.Pdf.Base.xml
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\System.Net.Http.Formatting.xml
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\System.Web.Http.xml
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\System.Web.Http.WebHost.xml
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\System.Web.Helpers.xml
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\System.Web.Mvc.xml
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\System.Web.Optimization.xml
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\System.Web.Razor.xml
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\System.Web.WebPages.xml
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\System.Web.WebPages.Deployment.xml
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\System.Web.WebPages.Razor.xml
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\Newtonsoft.Json.xml
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\Antlr3.Runtime.pdb
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\EntityFramework.xml
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\EntityFramework.SqlServer.xml
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\Microsoft.AspNet.Identity.Core.xml
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\Microsoft.Owin.xml
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\Microsoft.Owin.Security.xml
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Facebook.xml
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Cookies.xml
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Google.xml
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Twitter.xml
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\Microsoft.Owin.Security.OAuth.xml
+D:\3.2\Core project\16\GETFiT\GETFiT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\3.2\Core project\16\GETFiT\GETFiT\obj\Debug\GETFiT.csprojAssemblyReference.cache
+D:\3.2\Core project\16\GETFiT\GETFiT\obj\Debug\GETFiT.Migrations.create.resources
+D:\3.2\Core project\16\GETFiT\GETFiT\obj\Debug\GETFiT.csproj.GenerateResource.cache
+D:\3.2\Core project\16\GETFiT\GETFiT\obj\Debug\GETFiT.csproj.CoreCompileInputs.cache
+D:\3.2\Core project\16\GETFiT\GETFiT\obj\Debug\GETFiT.csproj.CopyComplete
+D:\3.2\Core project\16\GETFiT\GETFiT\obj\Debug\GETFiT.dll
+D:\3.2\Core project\16\GETFiT\GETFiT\obj\Debug\GETFiT.pdb
+G:\GETFiT\New folder\16\GETFiT\GETFiT\obj\Debug\GETFiT.csprojAssemblyReference.cache
+G:\GETFiT\New folder\16\GETFiT\GETFiT\obj\Debug\GETFiT.Migrations.create.resources
+G:\GETFiT\New folder\16\GETFiT\GETFiT\obj\Debug\GETFiT.csproj.GenerateResource.cache
+G:\GETFiT\New folder\16\GETFiT\GETFiT\obj\Debug\GETFiT.csproj.CoreCompileInputs.cache
+G:\GETFiT\New folder\16\GETFiT\GETFiT\obj\Debug\GETFiT.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\obj\Debug\GETFiT.pdb
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\GETFiT.dll.config
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\GETFiT.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\GETFiT.pdb
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\roslyn\csc.exe
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\roslyn\csc.exe.config
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\roslyn\csc.rsp
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\roslyn\csi.exe
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\roslyn\csi.exe.config
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\roslyn\csi.rsp
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\roslyn\Microsoft.Managed.Core.targets
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\roslyn\System.AppContext.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\roslyn\System.Collections.Immutable.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\roslyn\System.Console.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\roslyn\System.Globalization.Calendars.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\roslyn\System.IO.Compression.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\roslyn\System.IO.FileSystem.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\roslyn\System.Net.Http.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\roslyn\System.Net.Sockets.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\roslyn\System.Reflection.Metadata.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\roslyn\System.ValueTuple.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\roslyn\System.Xml.XmlDocument.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\roslyn\System.Xml.XPath.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\roslyn\vbc.exe
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\roslyn\vbc.exe.config
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\roslyn\vbc.rsp
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\roslyn\VBCSCompiler.exe
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\roslyn\VBCSCompiler.exe.config
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\Antlr3.Runtime.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\EntityFramework.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\EntityFramework.SqlServer.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\Microsoft.AspNet.Identity.Core.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\Microsoft.Owin.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Cookies.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\Microsoft.Owin.Security.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Facebook.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Google.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\Microsoft.Owin.Security.OAuth.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Twitter.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\Microsoft.Web.Infrastructure.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\Newtonsoft.Json.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\Owin.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\PagedList.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\PagedList.Mvc.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\Syncfusion.Compression.Base.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\Syncfusion.Licensing.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\Syncfusion.Pdf.Base.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\System.Net.Http.Formatting.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\System.Web.Helpers.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\System.Web.Http.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\System.Web.Http.WebHost.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\System.Web.Mvc.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\System.Web.Optimization.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\System.Web.Razor.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\System.Web.WebPages.Deployment.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\System.Web.WebPages.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\System.Web.WebPages.Razor.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\WebGrease.dll
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\PagedList.xml
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\PagedList.Mvc.xml
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\Syncfusion.Compression.Base.xml
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\Syncfusion.Pdf.Base.xml
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\System.Net.Http.Formatting.xml
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\System.Web.Http.xml
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\System.Web.Http.WebHost.xml
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\System.Web.Helpers.xml
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\System.Web.Mvc.xml
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\System.Web.Optimization.xml
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\System.Web.Razor.xml
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\System.Web.WebPages.xml
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\System.Web.WebPages.Deployment.xml
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\System.Web.WebPages.Razor.xml
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\Newtonsoft.Json.xml
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\Antlr3.Runtime.pdb
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\EntityFramework.xml
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\EntityFramework.SqlServer.xml
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\Microsoft.AspNet.Identity.Core.xml
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\Microsoft.Owin.xml
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\Microsoft.Owin.Security.xml
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Facebook.xml
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Cookies.xml
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Google.xml
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Twitter.xml
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\Microsoft.Owin.Security.OAuth.xml
+G:\GETFiT\New folder\16\GETFiT\GETFiT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\GETFiT\New folder\16\GETFiT\GETFiT\obj\Debug\GETFiT.csproj.CopyComplete
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\GETFiT.dll.config
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\GETFiT.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\GETFiT.pdb
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\roslyn\csc.exe
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\roslyn\csc.exe.config
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\roslyn\csc.rsp
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\roslyn\csi.exe
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\roslyn\csi.exe.config
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\roslyn\csi.rsp
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\roslyn\Microsoft.Managed.Core.targets
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\roslyn\System.AppContext.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\roslyn\System.Collections.Immutable.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\roslyn\System.Console.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\roslyn\System.Globalization.Calendars.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\roslyn\System.IO.Compression.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\roslyn\System.IO.FileSystem.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\roslyn\System.Net.Http.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\roslyn\System.Net.Sockets.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\roslyn\System.Reflection.Metadata.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\roslyn\System.ValueTuple.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\roslyn\System.Xml.XmlDocument.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\roslyn\System.Xml.XPath.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\roslyn\vbc.exe
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\roslyn\vbc.exe.config
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\roslyn\vbc.rsp
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\roslyn\VBCSCompiler.exe
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\roslyn\VBCSCompiler.exe.config
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\Antlr3.Runtime.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\EntityFramework.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\EntityFramework.SqlServer.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\Microsoft.AspNet.Identity.Core.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\Microsoft.Owin.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Cookies.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\Microsoft.Owin.Security.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Facebook.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Google.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\Microsoft.Owin.Security.OAuth.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Twitter.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\Microsoft.Web.Infrastructure.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\Newtonsoft.Json.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\Owin.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\PagedList.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\PagedList.Mvc.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\Syncfusion.Compression.Base.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\Syncfusion.Licensing.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\Syncfusion.Pdf.Base.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\System.Net.Http.Formatting.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\System.Web.Helpers.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\System.Web.Http.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\System.Web.Http.WebHost.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\System.Web.Mvc.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\System.Web.Optimization.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\System.Web.Razor.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\System.Web.WebPages.Deployment.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\System.Web.WebPages.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\System.Web.WebPages.Razor.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\WebGrease.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\PagedList.xml
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\PagedList.Mvc.xml
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\Syncfusion.Compression.Base.xml
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\Syncfusion.Pdf.Base.xml
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\System.Net.Http.Formatting.xml
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\System.Web.Http.xml
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\System.Web.Http.WebHost.xml
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\System.Web.Helpers.xml
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\System.Web.Mvc.xml
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\System.Web.Optimization.xml
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\System.Web.Razor.xml
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\System.Web.WebPages.xml
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\System.Web.WebPages.Deployment.xml
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\System.Web.WebPages.Razor.xml
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\Newtonsoft.Json.xml
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\Antlr3.Runtime.pdb
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\EntityFramework.xml
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\EntityFramework.SqlServer.xml
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\Microsoft.AspNet.Identity.Core.xml
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\Microsoft.Owin.xml
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\Microsoft.Owin.Security.xml
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Facebook.xml
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Cookies.xml
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Google.xml
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Twitter.xml
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\Microsoft.Owin.Security.OAuth.xml
+D:\3.2\Core project\18\GETFiT\GETFiT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\3.2\Core project\18\GETFiT\GETFiT\obj\Debug\GETFiT.csprojAssemblyReference.cache
+D:\3.2\Core project\18\GETFiT\GETFiT\obj\Debug\GETFiT.Migrations.create.resources
+D:\3.2\Core project\18\GETFiT\GETFiT\obj\Debug\GETFiT.csproj.GenerateResource.cache
+D:\3.2\Core project\18\GETFiT\GETFiT\obj\Debug\GETFiT.csproj.CoreCompileInputs.cache
+D:\3.2\Core project\18\GETFiT\GETFiT\obj\Debug\GETFiT.csproj.CopyComplete
+D:\3.2\Core project\18\GETFiT\GETFiT\obj\Debug\GETFiT.dll
+D:\3.2\Core project\18\GETFiT\GETFiT\obj\Debug\GETFiT.pdb
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\GETFiT.dll.config
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\GETFiT.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\GETFiT.pdb
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\roslyn\csc.exe
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\roslyn\csc.exe.config
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\roslyn\csc.rsp
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\roslyn\csi.exe
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\roslyn\csi.exe.config
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\roslyn\csi.rsp
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\roslyn\Microsoft.Managed.Core.targets
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\roslyn\System.AppContext.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\roslyn\System.Collections.Immutable.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\roslyn\System.Console.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\roslyn\System.Globalization.Calendars.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\roslyn\System.IO.Compression.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\roslyn\System.IO.FileSystem.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\roslyn\System.Net.Http.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\roslyn\System.Net.Sockets.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\roslyn\System.Reflection.Metadata.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\roslyn\System.ValueTuple.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\roslyn\System.Xml.XmlDocument.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\roslyn\System.Xml.XPath.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\roslyn\vbc.exe
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\roslyn\vbc.exe.config
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\roslyn\vbc.rsp
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\roslyn\VBCSCompiler.exe
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\roslyn\VBCSCompiler.exe.config
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\Antlr3.Runtime.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\EntityFramework.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\EntityFramework.SqlServer.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\Microsoft.AspNet.Identity.Core.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\Microsoft.Owin.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Cookies.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\Microsoft.Owin.Security.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Facebook.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Google.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\Microsoft.Owin.Security.OAuth.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Twitter.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\Microsoft.Web.Infrastructure.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\Newtonsoft.Json.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\Owin.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\PagedList.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\PagedList.Mvc.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\Syncfusion.Compression.Base.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\Syncfusion.Licensing.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\Syncfusion.Pdf.Base.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\System.Net.Http.Formatting.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\System.Web.Helpers.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\System.Web.Http.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\System.Web.Http.WebHost.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\System.Web.Mvc.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\System.Web.Optimization.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\System.Web.Razor.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\System.Web.WebPages.Deployment.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\System.Web.WebPages.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\System.Web.WebPages.Razor.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\WebGrease.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\PagedList.xml
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\PagedList.Mvc.xml
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\Syncfusion.Compression.Base.xml
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\Syncfusion.Pdf.Base.xml
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\System.Net.Http.Formatting.xml
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\System.Web.Http.xml
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\System.Web.Http.WebHost.xml
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\System.Web.Helpers.xml
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\System.Web.Mvc.xml
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\System.Web.Optimization.xml
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\System.Web.Razor.xml
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\System.Web.WebPages.xml
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\System.Web.WebPages.Deployment.xml
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\System.Web.WebPages.Razor.xml
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\Newtonsoft.Json.xml
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\Antlr3.Runtime.pdb
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\EntityFramework.xml
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\EntityFramework.SqlServer.xml
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\Microsoft.AspNet.Identity.Core.xml
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\Microsoft.Owin.xml
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\Microsoft.Owin.Security.xml
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Facebook.xml
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Cookies.xml
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Google.xml
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Twitter.xml
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\Microsoft.Owin.Security.OAuth.xml
+G:\GETFiT\19\18\GETFiT\GETFiT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\GETFiT\19\18\GETFiT\GETFiT\obj\Debug\GETFiT.csprojAssemblyReference.cache
+G:\GETFiT\19\18\GETFiT\GETFiT\obj\Debug\GETFiT.Migrations.create.resources
+G:\GETFiT\19\18\GETFiT\GETFiT\obj\Debug\GETFiT.csproj.GenerateResource.cache
+G:\GETFiT\19\18\GETFiT\GETFiT\obj\Debug\GETFiT.csproj.CoreCompileInputs.cache
+G:\GETFiT\19\18\GETFiT\GETFiT\obj\Debug\GETFiT.csproj.CopyComplete
+G:\GETFiT\19\18\GETFiT\GETFiT\obj\Debug\GETFiT.dll
+G:\GETFiT\19\18\GETFiT\GETFiT\obj\Debug\GETFiT.pdb
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\GETFiT.dll.config
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\GETFiT.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\GETFiT.pdb
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\roslyn\csc.exe
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\roslyn\csc.exe.config
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\roslyn\csc.rsp
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\roslyn\csi.exe
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\roslyn\csi.exe.config
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\roslyn\csi.rsp
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\roslyn\Microsoft.Managed.Core.targets
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\roslyn\System.AppContext.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\roslyn\System.Collections.Immutable.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\roslyn\System.Console.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\roslyn\System.Globalization.Calendars.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\roslyn\System.IO.Compression.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\roslyn\System.IO.FileSystem.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\roslyn\System.Net.Http.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\roslyn\System.Net.Sockets.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\roslyn\System.Reflection.Metadata.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\roslyn\System.ValueTuple.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\roslyn\System.Xml.XmlDocument.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\roslyn\System.Xml.XPath.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\roslyn\vbc.exe
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\roslyn\vbc.exe.config
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\roslyn\vbc.rsp
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\roslyn\VBCSCompiler.exe
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\roslyn\VBCSCompiler.exe.config
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\Antlr3.Runtime.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\EntityFramework.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\EntityFramework.SqlServer.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\Microsoft.AspNet.Identity.Core.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\Microsoft.Owin.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Cookies.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\Microsoft.Owin.Security.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Facebook.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Google.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\Microsoft.Owin.Security.OAuth.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Twitter.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\Microsoft.Web.Infrastructure.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\Newtonsoft.Json.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\Owin.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\PagedList.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\PagedList.Mvc.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\Syncfusion.Compression.Base.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\Syncfusion.Licensing.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\Syncfusion.Pdf.Base.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\System.Net.Http.Formatting.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\System.Web.Helpers.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\System.Web.Http.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\System.Web.Http.WebHost.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\System.Web.Mvc.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\System.Web.Optimization.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\System.Web.Razor.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\System.Web.WebPages.Deployment.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\System.Web.WebPages.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\System.Web.WebPages.Razor.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\WebGrease.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\PagedList.xml
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\PagedList.Mvc.xml
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\Syncfusion.Compression.Base.xml
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\Syncfusion.Pdf.Base.xml
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\System.Net.Http.Formatting.xml
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\System.Web.Http.xml
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\System.Web.Http.WebHost.xml
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\System.Web.Helpers.xml
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\System.Web.Mvc.xml
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\System.Web.Optimization.xml
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\System.Web.Razor.xml
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\System.Web.WebPages.xml
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\System.Web.WebPages.Deployment.xml
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\System.Web.WebPages.Razor.xml
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\Newtonsoft.Json.xml
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\Antlr3.Runtime.pdb
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\EntityFramework.xml
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\EntityFramework.SqlServer.xml
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\Microsoft.AspNet.Identity.Core.xml
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\Microsoft.Owin.xml
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\Microsoft.Owin.Security.xml
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Facebook.xml
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Cookies.xml
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Google.xml
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Twitter.xml
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\Microsoft.Owin.Security.OAuth.xml
+D:\3.2\Core project\19\GETFiT\GETFiT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\3.2\Core project\19\GETFiT\GETFiT\obj\Debug\GETFiT.csprojAssemblyReference.cache
+D:\3.2\Core project\19\GETFiT\GETFiT\obj\Debug\GETFiT.Migrations.create.resources
+D:\3.2\Core project\19\GETFiT\GETFiT\obj\Debug\GETFiT.csproj.GenerateResource.cache
+D:\3.2\Core project\19\GETFiT\GETFiT\obj\Debug\GETFiT.csproj.CoreCompileInputs.cache
+D:\3.2\Core project\19\GETFiT\GETFiT\obj\Debug\GETFiT.csproj.CopyComplete
+D:\3.2\Core project\19\GETFiT\GETFiT\obj\Debug\GETFiT.dll
+D:\3.2\Core project\19\GETFiT\GETFiT\obj\Debug\GETFiT.pdb
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\GETFiT.dll.config
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\GETFiT.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\GETFiT.pdb
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\roslyn\csc.exe
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\roslyn\csc.exe.config
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\roslyn\csc.rsp
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\roslyn\csi.exe
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\roslyn\csi.exe.config
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\roslyn\csi.rsp
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\roslyn\System.AppContext.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\roslyn\System.Console.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\roslyn\System.IO.Compression.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\roslyn\System.Net.Http.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\roslyn\System.ValueTuple.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\roslyn\vbc.exe
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\roslyn\vbc.exe.config
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\roslyn\vbc.rsp
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\roslyn\VBCSCompiler.exe
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\Antlr3.Runtime.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\EntityFramework.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\EntityFramework.SqlServer.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\Microsoft.Owin.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\Microsoft.Owin.Security.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\Newtonsoft.Json.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\Owin.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\PagedList.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\PagedList.Mvc.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\Syncfusion.Compression.Base.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\Syncfusion.Licensing.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\Syncfusion.Pdf.Base.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\System.Net.Http.Formatting.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\System.Web.Helpers.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\System.Web.Http.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\System.Web.Http.WebHost.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\System.Web.Mvc.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\System.Web.Optimization.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\System.Web.Razor.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\System.Web.WebPages.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\System.Web.WebPages.Razor.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\WebGrease.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\PagedList.xml
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\PagedList.Mvc.xml
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\Syncfusion.Compression.Base.xml
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\Syncfusion.Pdf.Base.xml
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\System.Net.Http.Formatting.xml
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\System.Web.Http.xml
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\System.Web.Http.WebHost.xml
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\System.Web.Helpers.xml
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\System.Web.Mvc.xml
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\System.Web.Optimization.xml
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\System.Web.Razor.xml
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\System.Web.WebPages.xml
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\System.Web.WebPages.Razor.xml
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\Newtonsoft.Json.xml
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\Antlr3.Runtime.pdb
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\EntityFramework.xml
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\EntityFramework.SqlServer.xml
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\Microsoft.Owin.xml
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\Microsoft.Owin.Security.xml
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\obj\Debug\GETFiT.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\obj\Debug\GETFiT.Migrations.create.resources
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\obj\Debug\GETFiT.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\obj\Debug\GETFiT.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\obj\Debug\GETFiT.csproj.CopyComplete
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\obj\Debug\GETFiT.dll
+C:\Users\Asus\Desktop\19\GETFiT\GETFiT\obj\Debug\GETFiT.pdb

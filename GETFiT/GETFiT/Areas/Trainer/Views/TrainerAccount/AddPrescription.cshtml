@@ -1,0 +1,194 @@
+﻿@model GETFiT.Areas.Trainer.Models.PrescriptionViewModel
+@{
+    ViewBag.Title = "AddPrescription";
+    Layout = "~/Areas/Trainer/Views/Shared/_IndexLayout.cshtml";
+
+}
+
+<div class="container">
+
+    <h5 class="mt-3">Add Prescription for Appointment No. @Model.Id</h5>
+    <h6>Paitent Name : @Model.clientName</h6>
+    <h6>Paitent Contact No : @Model.clientPhoneNumber</h6>
+    <h6>Appointment Time : @Model.appointmentTime</h6>
+
+    @using (Html.BeginForm("AddPrescription", "TrainerAccount"))
+    {
+        @Html.HiddenFor(model => model.Id)
+
+        <div class="row">
+            <div class="col-12 table-responsive">
+
+                <table class="table pres-table table-striped" id="Medicine">
+                    <thead>
+                        <tr>
+                            <th scope="col">Name</th>
+                            <th scope="col">Quantity</th>
+                            <th scope="col">Days</th>
+                            <th scope="col">Times</th>
+                            <th scope="col">---</th>
+                        </tr>
+                    </thead>
+
+                    <tbody id="tbMedicine">
+                    </tbody>
+
+                </table>
+            </div>
+
+        </div>
+
+
+
+        <div class="row">
+            <div class="col-md-6 col-sm-6  col-xs-6">
+                <button class="btn btn-success mt-3" id="save" type="submit" value="submit"> save </button>
+
+            </div>
+            <div class="col-md-6 col-sm-6  col-xs-6 d-md-flex justify-content-end">
+                <button type="button" id="Add" class="btn btn-outline-primary mt-3">Add new medicine</button>
+            </div>
+
+        </div>
+    }
+
+
+</div>
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+
+
+            function removeRow(id) {
+                var controlToBeRemoved = "#trMedicine" + id;
+                $(controlToBeRemoved).remove();
+
+                var x = 0;
+                $("input.medicine-input").each(function (e) {
+                    $(this).attr('name', 'medicines[' + x + ']');
+                    $(this).attr('id', 'medicines' + x);
+
+                    x++;
+                    console.log('x ' + x);
+                    
+                });
+
+                x = 0;
+                $("input.days-input").each(function (e) {
+                    $(this).attr('name', 'days[' + x + ']');
+                    $(this).attr('id', 'days' + x);
+
+                    x++;
+                    console.log('x ' + x);
+                    
+                });
+
+                x = 0;
+                $("input.times-input").each(function (e) {
+                    $(this).attr('name', 'times[' + x + ']');
+                    $(this).attr('id', 'times' + x);
+
+                    x++;
+                    console.log('x ' + x);
+                    
+                });
+
+                x = 0;
+                $("input.quantity-input").each(function (e) {
+                    $(this).attr('name', 'quantity[' + x + ']');
+                    $(this).attr('id', 'quantity' + x);
+
+                    x++;
+                    console.log('x ' + x);
+                    
+                });
+
+                x = 0;
+                $(".index").each(function (e) {
+                    $(this).attr('value',  x);
+                    x++;
+                    console.log('x ' + x);
+                });
+
+                x = 0;
+                $(".trrow").each(function (e) {
+                    $(this).attr('id',  'trMedicine'+x);
+                    x++;
+                    console.log('x ' + x);
+                });
+
+
+                x = 0;
+                $(".remove").each(function (e) {
+                    $(this).attr('onclick',  'removeRow('+x+');');
+                    x++;
+                    console.log('x ' + x);
+                });
+            }
+
+        /* Set the width of the side navigation to 250px */
+        function openNav() {
+            document.getElementById("mySidenav").style.width = "300px";
+        }
+
+        /* Set the width of the side navigation to 0 */
+        function closeNav() {
+            document.getElementById("mySidenav").style.width = "0";
+        }
+
+
+        $(document).ready(function () {
+
+            var disable = true;
+
+
+            $('table').on('click', 'tr button.remove', function (e) {
+                e.preventDefault();
+                $(this).closest('tr').remove();
+            });
+
+            $("#save").hover(() => {
+                $("input.medicine-input").each(function (e) {
+                    console.log($(this).val());
+                });
+            })
+
+            //var i = 0;
+            $("#Add").click(() => {
+                //var f = $("<input>").attr('type', 'textbox').attr('name', 'medicines[' + i + "]").attr('class', 'form-control medicine-input').attr('id', i);
+                @{
+                    Model.medicines.Add("GETFiT");
+                    Model.times.Add("GETFiT");
+                    Model.quantity.Add("GETFiT");
+                    Model.days.Add("GETFiT");
+                }
+
+
+
+
+                var i = $("#tbMedicine").children("tr").length;
+
+                var indexcell = "<tr class='trrow' id='trMedicine"+i+"'><td style='display:none'> <input class='index' name='medicine.index' type='hidden' value='" + i + "' /></td>";
+                var element = "<td><input class='form-control medicine-input' type ='textbox' name = 'medicines[" + i + "]' id =medicine" + i + " required></input></td>";
+                var days = "<td><input class='form-control days-input' type ='textbox' name = 'quantity[" + i + "]' id =quantity" + i + " required></input></td>";
+                var quantity = "<td><input class='form-control quantity-input' type ='textbox' name = 'days[" + i + "]' id =days" + i + " required></input></td>";
+                var times = "<td><input class='form-control times-input' type ='textbox' name = 'times[" + i + "]' id =times" + i + " required></input></td>";
+                var action = "<td> <button class='btn btn-outline-danger remove' onclick='removeRow("+i+");'>Remove</button></td></tr>";
+
+                console.log(i);
+
+
+                $("tbody").append(indexcell + element + days + quantity + times + action);
+                //i++;
+            });
+
+
+            $(".Medicine > tbody:last-child").on('click', 'input', function (e) {
+                console.log($(this).val());
+            })
+
+        });
+
+    </script>
+}

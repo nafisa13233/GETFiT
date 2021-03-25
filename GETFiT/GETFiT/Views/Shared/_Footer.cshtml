@@ -1,0 +1,58 @@
+﻿<section class="footer-section">
+    <div class="container body-content">
+        @*@RenderBody()*@
+        <hr />
+        <div class="row">
+
+            <div class="col-xs-6 col-sm-3">
+                <b>Company</b><br />
+                @Html.ActionLink("About", "Index", "Home", new { area = "" }, new { @class = "" })<br />
+
+                @Html.ActionLink("Terms & Conditions", "Index", "Home", new { area = "" }, new { @class = "" })<br />
+
+                @Html.ActionLink("Privacy policy", "Index", "Home", new { area = "" }, new { @class = "" })<br />
+            </div>
+            <div class="col-xs-6 col-sm-3">
+                <b>Support</b><br />
+                @Html.ActionLink("Contact", "Index", "Home", new { area = "" }, new { @class = "" })<br />
+            </div>
+            <div class="col-xs-6 col-sm-3">
+                <b>Address</b>
+                <p>AUST</p>
+            </div>
+            <div class="col-xs-6 col-sm-3">
+                <b>Stay Connected</b>
+                <div class="row">
+                    <div class="col-xs-3">
+                        <a src="#"><i class="fa fa-facebook" style="margin-left:12px;font-size:25px;color:dodgerblue"></i></a>
+                    </div>
+                    <div class="col-xs-3">
+                        <a>
+                            <i class="fa fa-instagram" style="margin-left:20px;font-size:25px;color:dodgerblue"></i>
+                        </a>
+                    </div>
+
+                    <div class="col-xs-3">
+                        <a><i class="fa fa-twitter-square" style="margin-left:20px;font-size:25px;color:dodgerblue"></i></a>
+                    </div>
+                    <div class="col-xs-3">
+                        <a><i class="fa fa-youtube" style="margin-left:20px;initial;font-size:25px;color:dodgerblue"></i></a>
+                    </div>
+
+                </div>
+
+
+            </div>
+        </div>
+
+
+        <hr>
+        <section>
+            <footer>
+                <p style="text-align: center; margin-top:20px;">
+                    &copy; @DateTime.Now.Year - GETFiT, All rights reserved.<br />
+                    Developed by Team <br />"Kop hobe ekdin".
+                </p>
+            </footer>
+
+        </section>

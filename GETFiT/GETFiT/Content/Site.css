@@ -1,0 +1,2779 @@
+﻿
+
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification\ 
+for details on configuring this project to bundle and minify static web assets. */
+/*body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}*/
+
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+/*.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}*/
+
+/* Carousel */
+/*.carousel-caption p {
+    font-size: 20px;
+    line-height: 1.4;
+}*/
+
+/* Make .svg files in the carousel display properly in older browsers */
+/*.carousel-inner .item img[src$=".svg"] {
+    width: 100%;
+}*/
+
+/* QR code generator */
+/*#qrCode {
+    margin: 15px;
+}*/
+
+/* Hide/rearrange for smaller screens */
+/*@media screen and (max-width: 767px) {*/
+    /* Hide captions */
+    /*.carousel-caption {
+        display: none;
+    }
+}*/
+/*********************Nav***********************/
+.logo {
+    width: 80px;
+    height: 20px;
+    margin-right: 5px;
+    /* margin-bottom: 10px;*/
+}
+/**************Home***********/
+.home-section1 {
+    background: url("../images/home1.JPG") no-repeat center center;
+    position: relative;
+    height: 600px;
+    min-height: 400px;
+    max-height: 1080px;
+    background-size: cover;
+}
+
+.home-section1-text {
+    text-align: center;
+    padding-top: 300px;
+}
+
+.home-section1-h1 {
+    color: #1CB0E6;
+    font-family: 'Segoe UI';
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.home-section1-h2 {
+    color: #fff;
+    font-family: 'Segoe UI';
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.home-section1-btn1 {
+    background: #1CB0E6;
+    border-radius: 6px;
+    width: 160px;
+    padding: 10px;
+    border: none;
+    box-shadow: 0 3px 10px 0 rgba(0,0,0,0.15);
+    margin: 15px 0 50px 0px;
+    font-family: 'Century Gothic';
+    font-weight: 700;
+    font-size: 18px;
+}
+
+    .home-section1-btn1:hover {
+        background: #0489B1;
+        color: white;
+    }
+
+.home-section2 {
+    background-color: #1CB0E6;
+    padding: 35px 90px 35px 90px;
+    text-align: center;
+    color: #fff;
+}
+
+.home-section2-h1 {
+    color: #fff;
+    font-family: 'Segoe UI';
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.home-section2-p1 {
+    color: #fff;
+    font-family: 'Segoe UI';
+    font-size: 20px;
+    font-weight: unset;
+}
+
+.home-section3 {
+    background-color: #fff;
+    padding: 25px 90px 0px 90px;
+    text-align: center;
+    color: black;
+    overflow: hidden
+}
+
+.home-section3-h1 {
+    color: black;
+    text-transform: uppercase;
+    font-family: 'Segoe UI';
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.home-section3-p1 {
+    color: black;
+    font-family: 'Segoe UI';
+    font-size: 18px;
+}
+
+.home-section3-btn1 {
+    background: black;
+    border-radius: 6px;
+    width: 160px;
+    padding: 10px;
+    border: none;
+    box-shadow: 0 3px 10px 0 rgba(0,0,0,0.15);
+    margin: 15px 0 50px 0px;
+    font-family: 'Century Gothic';
+    font-weight: 700;
+    font-size: 18px;
+}
+
+    .home-section3-btn1:hover {
+        background: #424242;
+        color: white;
+    }
+
+.home-section4 {
+    padding-bottom: 25px;
+}
+
+.home-section4-text {
+    padding: 25px 25px 10px 25px;
+}
+
+.home-section4-h1 {
+    color: #fff;
+    text-transform: uppercase;
+    font-family: 'Segoe UI';
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.home-section3-p1 {
+    color: black;
+    font-family: 'Segoe UI';
+    font-size: 18px;
+}
+
+.home-section4-p1 {
+    color: #fff;
+    font-family: 'Segoe UI';
+    font-size: 18px;
+}
+
+.card-center {
+    padding: 35px 100px 25px 100px;
+}
+
+.home-section4-card1 {
+    height: 500px;
+    width: 350px;
+}
+
+.home-section4-card2 {
+    height: 500px;
+    width: 350px;
+}
+
+.card-h1 {
+    color: black;
+    font-family: 'Segoe UI';
+    font-size: 22px;
+    font-weight: bold;
+    padding-top: 5px;
+}
+
+.card-p1 {
+    color: black;
+    font-family: 'Segoe UI';
+    font-size: 18px;
+    padding-bottom: 0;
+}
+
+.home-section5 {
+    background: url("../images/homelast1.jpg") no-repeat center center;
+    position: relative;
+    height: 100px;
+    min-height: 400px;
+    max-height: 1080px;
+    background-size: cover;
+}
+
+.home-section5-text {
+    text-align: center;
+    padding-top: 100px;
+}
+
+.home-section5-h1 {
+    color: white;
+    font-family: 'Segoe UI';
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.home-section5-h2 {
+    color: #1CB0E6;
+    font-family: 'Segoe UI';
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.home-section5-btn1 {
+    background: #1CB0E6;
+    border-radius: 6px;
+    width: 190px;
+    padding: 10px;
+    border: none;
+    box-shadow: 0 3px 10px 0 rgba(0,0,0,0.15);
+    margin: 15px 0 50px 0px;
+    font-family: 'Century Gothic';
+    font-weight: 700;
+    font-size: 18px;
+}
+
+    .home-section5-btn1:hover {
+        background: #0489B1;
+        color: white;
+    }
+/*****
+
+.column {
+    float: left;
+    width: 350px;
+    padding: 0 10px;
+}****/
+@media screen and (max-width: 600px) {
+    .column {
+        width: 100%;
+        display: block;
+        margin-bottom: 20px;
+    }
+}
+
+.home-last {
+    margin-top: 50px;
+    padding: 10px;
+    max-height: inherit;
+}
+
+.card1 {
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    max-height: 1000px;
+    padding: 10px;
+}
+
+.regT_btn {
+    background: #05c4f4;
+    width: 125px;
+    height: 30px;
+    text-align: center;
+    color: white;
+    line-height: 25px;
+    text-decoration: none;
+    border-radius: 10px;
+    position: page;
+    padding-top: 3px;
+}
+
+    .regT_btn:hover {
+        text-decoration: none;
+        color: white;
+        background: black;
+    }
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+/**************Log In page***************/
+.wrapper {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logform {
+    width: 968px;
+    border-radius: 8px;
+    font-family: 'Century Gothic';
+    font-weight: 600;
+    position: relative;
+    display: flex;
+}
+
+    .logform .form-left {
+        margin-bottom: -6px;
+        width: 100%;
+    }
+
+        .logform .form-left img {
+            border-top-left-radius: 8px;
+            border-bottom-left-radius: 8px;
+            width: 100%;
+            height: 462px;
+        }
+
+    .logform .form-detail {
+        padding: 30px 40px;
+        position: relative;
+        width: 100%;
+    }
+
+        .logform .form-detail h2 {
+            text-align: center;
+            font-size: 36px;
+            padding: 6px 0 0;
+            position: relative;
+            margin-bottom: 48px;
+            color: #333;
+        }
+
+        .logform .form-detail .form-row {
+            width: 100%;
+        }
+
+        .logform .form-detail .form-row-last {
+            text-align: center;
+        }
+
+        .logform .form-detail .input-text {
+            margin-bottom: 40px;
+        }
+
+        .logform .form-detail input {
+            width: 92%;
+            padding: 0 15px 10px 15px;
+            border: 2px solid transparent;
+            border-bottom: 2px solid #e5e5e5;
+            outline: none;
+            font-family: 'Century Gothic';
+            font-size: 16px;
+            font-weight: 600;
+            color: #333;
+        }
+
+            .logform .form-detail input:focus {
+                border-bottom: 2px solid #fe892a;
+            }
+
+        .logform .form-detail .login {
+            background: #fe892a;
+            border-radius: 6px;
+            width: 160px;
+            padding: 10px;
+            border: none;
+            box-shadow: 0 3px 10px 0 rgba(0,0,0,0.15);
+            margin: 40px 0 50px 0px;
+            font-family: 'Century Gothic';
+            font-weight: 700;
+            font-size: 18px;
+        }
+
+            .logform .form-detail .login:hover {
+                background: #e37b27;
+            }
+
+.form-check-label {
+    background: #fff;
+    font-family: 'Century Gothic';
+    font-weight: 200;
+}
+
+.login-h1 {
+    color: #1CB0E6;
+    font-family: 'Segoe UI';
+    font-size: 26px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    padding-bottom: 5px;
+    margin-top: -30px;
+}
+
+.login-h2 {
+    color: black;
+    font-family: 'Segoe UI';
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.login-center {
+    text-align: left;
+}
+
+.login-btn {
+    background: #0B3B2E;
+    border-radius: 6px;
+    width: 180px;
+    padding: 5px;
+    border: none;
+    box-shadow: 0 3px 10px 0 rgba(0,0,0,0.15);
+    font-family: 'Century Gothic';
+    font-weight: 700;
+    font-size: 16px;
+    color: white;
+}
+
+    .login-btn:hover {
+        background: #424242;
+        color: white;
+    }
+
+.forget-pass {
+    color: black;
+    font-family: 'Segoe UI';
+    font-size: 16px;
+    font-weight: bold;
+    text-align: left;
+}
+
+.signup-btn-div {
+    text-align: right;
+}
+
+.signup-btn {
+    color: black;
+    font-family: 'Segoe UI';
+    font-size: 16px;
+    font-weight: bold;
+    text-align: right;
+}
+
+/***for mozila***/
+input::-moz-placeholder {
+    color: #666;
+    font-size: 16px;
+}
+/***for chrome****/
+input::-webkit-input-placeholder {
+    color: #666;
+    font-size: 16px;
+}
+/***for responsive**/
+@media screen and (max-width: 991px) {
+    .logform {
+        margin: 120px 20px;
+        flex-direction: column;
+    }
+
+        .logform .form-left {
+            width: 100%;
+        }
+
+            .logform .form-left img {
+                width: 100%;
+                border-bottom-left-radius: 0px;
+                border-top-left-radius: 8px;
+            }
+
+        .logform .form-detail {
+            width: auto;
+            padding: 30px 20px 30px 20px;
+        }
+
+            .logform .form-detail .login {
+                margin-bottom: 80px;
+            }
+}
+
+@media screen and (max-width: 767px) {
+    .logform .form-detail .form-row input {
+        width: 94%;
+    }
+}
+
+@media screen and (max-width: 575px) {
+    .logform .form-detail .form-row input {
+        width: 89%;
+    }
+}
+
+/*******************About us***************/
+.about-section1 {
+    background: url("../images/about-us-1.jpg") no-repeat center center;
+    position: relative;
+    height: 600px;
+    min-height: 400px;
+    max-height: 1080px;
+    background-size: cover;
+}
+
+.about-section1-text {
+    text-align: left;
+    padding-top: 150px;
+}
+
+.about-section1-h1 {
+    color: white;
+    font-family: 'Segoe UI';
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.about-section1-h2 {
+    color: #1CB0E6;
+    font-family: 'Segoe UI';
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.about-section1-p1 {
+    color: white;
+    font-family: 'Segoe UI';
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.about-section2 {
+    background-color: #fff;
+    padding: 35px 90px 35px 90px;
+    text-align: center;
+    color: #fff;
+}
+
+.about-section2-h1 {
+    color: #1CB0E6;
+    font-family: 'Segoe UI';
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.about-section2-p1 {
+    color: black;
+    font-family: 'Segoe UI';
+    font-size: 20px;
+    font-weight: unset;
+}
+
+.about-section3 {
+    background: url("../images/about-us-2.jpg") no-repeat center center;
+    position: relative;
+    height: 600px;
+    min-height: 400px;
+    max-height: 1080px;
+    background-size: cover;
+}
+
+.about-section3-text {
+    text-align: left;
+    padding-top: 170px;
+}
+
+.about-section3-h1 {
+    color: #1CB0E6;
+    font-family: 'Segoe UI';
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.about-section3-p1 {
+    color: white;
+    font-family: 'Segoe UI';
+    font-size: 17px;
+    font-weight: bold;
+}
+/***********Registration Page*******************/
+/*        .wrapper {
+            width: 100%;
+            min-height: 100vh;
+            background: linear-gradient(136deg,rgb(0,0,70)0%,rgb(28,181,224) 100%);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }*/
+.regform {
+    background: #fff;
+    width: 968px;
+    border-radius: 8px;
+    font-family: 'Century Gothic';
+    font-weight: 600;
+    position: relative;
+    display: flex;
+}
+
+    .regform .form-left {
+        margin-bottom: -6px;
+    }
+
+        .regform .form-left img {
+            border-top-left-radius: 8px;
+            border-bottom-left-radius: 8px;
+            height: 712px;
+        }
+
+    .regform .form-detail {
+        padding: 30px 40px;
+        position: relative;
+        width: 100%;
+    }
+
+        .regform .form-detail h2 {
+            text-align: center;
+            font-size: 36px;
+            padding: 6px 0 0;
+            position: relative;
+            margin-bottom: 48px;
+            color: #333;
+        }
+
+        .regform .form-detail .form-row {
+            width: 100%;
+        }
+
+        .regform .form-detail .form-row-last {
+            text-align: center;
+        }
+
+        .regform .form-detail .input-text {
+            margin-bottom: 35px;
+        }
+
+        .regform .form-detail input {
+            width: 92%;
+            padding: 0 15px 10px 15px;
+            border: 2px solid transparent;
+            border-bottom: 2px solid #e5e5e5;
+            outline: none;
+            font-family: 'Century Gothic';
+            font-size: 16px;
+            font-weight: 600;
+            color: #333;
+        }
+
+            .regform .form-detail input:focus {
+                border-bottom: 2px solid #fe892a;
+            }
+
+        .regform .form-detail .register {
+            background: #fe892a;
+            border-radius: 6px;
+            width: 160px;
+            padding: 10px;
+            border: none;
+            box-shadow: 0 3px 10px 0 rgba(0,0,0,0.15);
+            margin: 15px 0 50px 0px;
+            font-family: 'Century Gothic';
+            font-weight: 700;
+            font-size: 18px;
+        }
+
+
+            .regform .form-detail .register:hover {
+                background: #e37b27;
+            }
+
+.btn-reg-trainer {
+    background: #fe892a;
+    border-radius: 6px;
+    width: 160px;
+    padding: 10px;
+    border: none;
+    box-shadow: 0 3px 10px 0 rgba(0,0,0,0.15);
+    margin: 15px 0 50px 0px;
+    font-family: 'Century Gothic';
+    font-weight: 700;
+    font-size: 18px;
+}
+
+    .btn-reg-trainer:hover {
+        background: #e37b27;
+    }
+
+.form-check-input .form-check-label {
+    font-family: 'Century Gothic';
+    font-weight: 600;
+}
+
+.registration-h1 {
+    color: #1CB0E6;
+    font-family: 'Segoe UI';
+    font-size: 26px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 50px;
+    padding-bottom: 5px;
+    margin-top: -30px;
+}
+
+.registration-btn {
+    background: #0B3B2E;
+    border-radius: 6px;
+    width: 180px;
+    padding: 5px;
+    border: none;
+    box-shadow: 0 3px 10px 0 rgba(0,0,0,0.15);
+    font-family: 'Century Gothic';
+    font-weight: 700;
+    font-size: 16px;
+    color: white;
+}
+
+    .registration-btn:hover {
+        background: #424242;
+        color: white;
+    }
+/*---------------------Contact Section--------------------*/
+.contact-section {
+    padding-top: 75px;
+    padding-bottom: 80px;
+}
+
+.contact-title {
+    margin-bottom: 30px;
+}
+
+    .contact-title h4 {
+        color: #252525;
+        font-weight: 700;
+        margin-bottom: 16px;
+    }
+
+.contact-widget .cw-item {
+    background: #ffffff;
+    margin-bottom: 11px;
+    -webkit-box-shadow: 0px 8px 35px 10px #E8E8E8;
+    box-shadow: 0px 8px 35px 10px #E8E8E8;
+    padding-left: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 10px;
+}
+
+    .contact-widget .cw-item .ci-icon {
+        float: left;
+        margin-top: 12px;
+    }
+
+        .contact-widget .cw-item .ci-icon i {
+            font-size: 30px;
+            color: #b2b2b2;
+        }
+
+    .contact-widget .cw-item .ci-text {
+        display: table;
+        padding-left: 30px;
+    }
+
+        .contact-widget .cw-item .ci-text span {
+            color: #b2b2b2;
+            font-size: 16px;
+        }
+
+        .contact-widget .cw-item .ci-text p {
+            font-size: 18px;
+            color: #252525;
+            margin-bottom: 0;
+        }
+
+.contact-form .leave-comment h4 {
+    color: #292f3b;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.contact-form .leave-comment p {
+    margin-bottom: 38px;
+}
+
+.contact-form .leave-comment .comment-form input {
+    width: 100%;
+    font-size: 16px;
+    color: #636363;
+    height: 50px;
+    border: 1px solid #ebebeb;
+    border-radius: 5px;
+    padding-left: 20px;
+    margin-bottom: 30px;
+}
+
+.contact-form .leave-comment .comment-form textarea {
+    width: 100%;
+    resize: none;
+    font-size: 16px;
+    color: #636363;
+    height: 150px;
+    border: 1px solid #ebebeb;
+    border-radius: 5px;
+    padding-left: 20px;
+    padding-top: 5px;
+    margin-bottom: 35px;
+}
+/*
+.contact-form .leave-comment .comment-form .site-btn {
+    padding: 13px 20px 11px;
+}*/
+.btn-contact {
+    background: #fe892a;
+    border-radius: 6px;
+    width: 200px;
+    border: none;
+    box-shadow: 0 3px 10px 0 rgba(0,0,0,0.15);
+    /*    margin: 15px 0 15px 0px;*/
+    font-family: 'Century Gothic';
+    font-weight: 700;
+    font-size: 16px;
+}
+
+    .btn-contact:hover {
+        background: #e37b27;
+    }
+/***for mozila***/
+input::-moz-placeholder {
+    color: #666;
+    font-size: 16px;
+}
+/***for chrome****/
+input::-webkit-input-placeholder {
+    color: #666;
+    font-size: 16px;
+}
+/***for responsive**/
+@media screen and (max-width: 991px) {
+    .regform {
+        margin: 120px 20px;
+        flex-direction: column;
+    }
+
+        .regform .form-left {
+            width: 100%;
+        }
+
+            .regform .form-left img {
+                width: 100%;
+                border-bottom-left-radius: 0px;
+                border-top-left-radius: 8px;
+            }
+
+        .regform .form-detail {
+            width: auto;
+            padding: 30px 20px 30px 20px;
+        }
+
+            .regform .form-detail .register {
+                margin-bottom: 80px;
+            }
+}
+
+@media screen and (max-width: 767px) {
+    .regform .form-detail .form-row input {
+        width: 94%;
+    }
+}
+
+@media screen and (max-width: 575px) {
+    .regform .form-detail .form-row input {
+        width: 89%;
+    }
+}
+
+/******CONTACT PAGE*******/
+
+.consec {
+    margin-top: 30px;
+}
+
+.conform {
+    background-color: cadetblue;
+    height: auto;
+    box-sizing: padding-box;
+    padding: 30px;
+}
+
+/**********************************Profile Client View**************************************************/
+
+.user-header-wrapper {
+    width: 100%;
+    position: relative;
+}
+
+.user-icon-wrapper {
+    width: 100%;
+    position: absolute;
+    z-index: 20;
+}
+
+.user-icon {
+    width: 100%;
+    display: block;
+    border: .5em solid var(--bc);
+    background-color: var(--bc);
+    z-index: 12;
+}
+
+.user-header-inner {
+    z-index: 5;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    overflow: hidden;
+}
+
+.user-header-overlay {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-color: rgba(0, 0, 0, .15);
+    z-index: 6;
+}
+
+.user-header {
+    width: 100%;
+    height: auto;
+    max-height: 300px;
+    overflow: hidden;
+}
+
+.username-wrapper {
+    width: 100%;
+    position: relative;
+}
+
+.username-dev {
+    margin: 0;
+    display: inline-block;
+    color: var(--m-blue);
+    font-size: 2em;
+    cursor: default;
+}
+
+.user-info-bar {
+    width: 100%;
+    display: grid;
+    padding: .75em 0 1em 0;
+    padding-left: 50px;
+    background-color: var(--bc);
+    grid-template-columns: 1fr 10% 35% 20% 1fr;
+    grid-template-rows: auto;
+    grid-template-areas: ".ufo-bar-col1 .ufo-bar-col2 .ufo-bar-col3 .ufo-bar-col4 .ufo-bar-col5";
+}
+
+.ufo-bar-col1-inner {
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
+
+.ufo-bar-col2-inner {
+    display: flex;
+    padding: .5em 0;
+    position: relative;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.username-wrapper-outer {
+    display: flex;
+    margin: 0 0 0 1.5em;
+    justify-content: center;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.pcv-cName {
+    color: #1CB0E6;
+    font-family: 'Segoe UI';
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.rating {
+    color: darkslategray;
+    font-family: 'Segoe UI';
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.pcv-btn1 {
+    background: #1CB0E6;
+    border-radius: 6px;
+    width: 160px;
+    padding: 10px;
+    border: none;
+    box-shadow: 0 3px 10px 0 rgba(0,0,0,0.15);
+    margin: 15px 0 50px 0px;
+    font-family: 'Century Gothic';
+    font-weight: 700;
+    font-size: 18px;
+    color: white;
+}
+
+    .pcv-btn1:hover {
+        background: #424242;
+        color: white;
+    }
+
+.pcv-btn2 {
+    background: #0B3B2E;
+    border-radius: 6px;
+    width: 160px;
+    padding: 10px;
+    border: none;
+    box-shadow: 0 3px 10px 0 rgba(0,0,0,0.15);
+    margin: 15px 0 15px 0px;
+    font-family: 'Century Gothic';
+    font-weight: 700;
+    font-size: 16px;
+    color: white;
+}
+
+    .pcv-btn2:hover {
+        background: #424242;
+        color: white;
+    }
+
+.card-h1 {
+    font-family: 'Century Gothic';
+    font-weight: 900;
+    font-size: 16px;
+}
+
+.pcv-section2-h1 {
+    color: #1CB0E6;
+    font-family: 'Segoe UI';
+    font-size: 30px;
+    font-weight: bold;
+    border-bottom: 1px solid gray;
+}
+
+.pcv-section2-p1 {
+    font-family: 'Century Gothic';
+    font-weight: 900;
+    font-size: 16px;
+}
+
+.pcv-images {
+    padding: 10px;
+}
+
+.pcv-cmnt-name {
+    color: #0B3B2E;
+    font-family: 'Segoe UI';
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.pcv-cmnt {
+    font-family: 'Century Gothic';
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.pcv-cmnt-date {
+    font-family: 'Century Gothic';
+    font-weight: 200;
+    font-size: 14px;
+    color: gray;
+}
+
+.pcv-new-cmnt {
+    width: 100%;
+    height: 50px;
+}
+
+.pcv-comment-btn {
+    background: #0B3B2E;
+    border-radius: 6px;
+    width: 160px;
+    padding: 10px;
+    border: none;
+    box-shadow: 0 3px 10px 0 rgba(0,0,0,0.15);
+    margin: 15px 0 15px 0px;
+    font-family: 'Century Gothic';
+    font-weight: 700;
+    font-size: 16px;
+    color: white;
+}
+
+    .pcv-comment-btn:hover {
+        background: #424242;
+        color: white;
+    }
+
+/************************Trainer List**************************/
+
+
+.label-sort {
+    color: #0B3B2E;
+    font-family: 'Segoe UI';
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.sort-option {
+    color: black;
+    font-family: 'Segoe UI';
+    font-size: 13px;
+}
+
+.sort-btn {
+    background: #0B3B2E;
+    border-radius: 6px;
+    width: 80px;
+    padding: 5px;
+    border: none;
+    box-shadow: 0 3px 10px 0 rgba(0,0,0,0.15);
+    font-family: 'Century Gothic';
+    font-weight: 400;
+    font-size: 13px;
+    color: white;
+}
+
+.trainers-image {
+    padding: 10px;
+    padding-top: 15px;
+}
+
+.trainers-name {
+    color: #1CB0E6;
+    font-family: 'Segoe UI';
+    font-weight: 700;
+    font-size: 28px;
+}
+
+.trainers-p1 {
+    color: gray;
+    font-family: 'Segoe UI';
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.trainers-p2 {
+    color: #0B3B2E;
+    font-family: 'Segoe UI';
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.trainers-p3 {
+    color: black;
+    font-family: 'Century Gothic';
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.trainers-price {
+    color: #0B3B2E;
+    font-family: 'Segoe UI';
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.refine-search {
+    color: #0B3B2E;
+    font-family: 'Segoe UI';
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.search-label {
+    color: #0B3B2E;
+    font-family: 'Segoe UI';
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.select-area {
+    border: 1px solid black;
+    height: 30px;
+    width: 230px;
+}
+
+.train-select {
+    color: #0B3B2E;
+    font-family: 'Segoe UI';
+    font-weight: 600;
+    font-size: 18px;
+    padding-top: 5px;
+}
+
+.train-option {
+    border: 1px solid black;
+    height: 30px;
+    width: 230px;
+    text-align: left;
+}
+
+.sort-btn2 {
+    background: #0B3B2E;
+    border-radius: 6px;
+    width: 80px;
+    padding: 5px;
+    border: none;
+    box-shadow: 0 3px 10px 0 rgba(0,0,0,0.15);
+    font-family: 'Century Gothic';
+    font-weight: 400;
+    font-size: 13px;
+    color: white;
+}
+
+.page-nmbr {
+    color: #0B3B2E;
+    font-family: 'Segoe UI';
+    font-weight: 600;
+    font-size: 22px;
+    text-align: right;
+    padding-top: 25px;
+}
+
+
+/****************************************Dashboard********************************/
+
+.Dashboard-header {
+    background: #22242A;
+    padding: 20px;
+    width: 100%;
+    height: 60px;
+}
+
+.left_area h3 {
+    color: #fff;
+    margin: 0;
+    text-transform: uppercase;
+    font-size: 22px;
+    font-weight: 900;
+}
+
+.logout_btn {
+    padding: 5px;
+    background: #19B3D3;
+    text-decoration: none;
+    float: right;
+    margin-top: -30px;
+    margin-right: 40px;
+    border-radius: 2px;
+    font-size: 15px;
+    font-weight: 600;
+    color: #fff;
+}
+
+    .logout_btn:hover {
+        background: #EEA880;
+        color: white;
+    }
+
+.sidebar {
+    background: #2f323A;
+    padding-top: 30px;
+    left: 0;
+    height: 600px;
+}
+
+.profile-img {
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    margin-bottom: 10px;
+}
+
+.sidebar h4 {
+    color: #ccc;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+.sidebar a {
+    color: #fff;
+    display: block;
+    width: 100%;
+    line-height: 60px;
+    text-decoration: none;
+    padding-left: 40px;
+    box-sizing: border-box;
+}
+
+    .sidebar a:hover {
+        background: #19B3D3;
+    }
+
+.sidebar i {
+    padding-right: 10px;
+}
+
+label #Sidebar_btn {
+    z-index: 1;
+    color: #fff;
+    cursor: pointer;
+    left: 300px;
+    font-size: 20px;
+    margin: 5px 0;
+}
+
+    label #Sidebar_btn:hover {
+        color: #19B3D3;
+    }
+
+.Dashboard-Card-1 {
+    background-color: #D1E9E4;
+    border-radius: 8px;
+    margin-top: 10px;
+    padding: 20px;
+}
+
+.Dashboard-Card-2 {
+    background-color: #D1E9E4;
+    border-radius: 8px;
+    margin-top: 10px;
+    padding: 20px;
+}
+
+.Dashboard-Card-3 {
+    background-color: #D1E9E4;
+    border-radius: 8px;
+    margin-top: 10px;
+    padding: 20px;
+}
+
+.Dashboard-Card-4 {
+    background-color: #D1E9E4;
+    border-radius: 8px;
+    margin-top: 10px;
+    padding: 20px;
+}
+
+.Dashboard-Card-5 {
+    background-color: #D1E9E4;
+    border-radius: 8px;
+    margin-top: 10px;
+    padding: 20px;
+}
+
+.profile-text {
+    color: #fff;
+    font-family: 'Segoe UI';
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.Dashboard-Card-1-h {
+    color: black;
+    font-family: 'Century Gothic';
+    font-size: 20px;
+    font-weight: 900;
+}
+
+.Dashboard-Card-1-p {
+    color: black;
+    font-family: 'Century Gothic';
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.Dashboard-Card-2-h {
+    color: black;
+    font-family: 'Century Gothic';
+    font-size: 20px;
+    font-weight: 900;
+}
+
+.Dashboard-Card-2-p {
+    color: black;
+    font-family: 'Century Gothic';
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.Dashboard-Card-3-p {
+    color: black;
+    font-family: 'Century Gothic';
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.Dashboard-Card-3-btn {
+    background: #0B3B2E;
+    border-radius: 6px;
+    width: 180px;
+    padding: 5px;
+    border: none;
+    box-shadow: 0 3px 10px 0 rgba(0,0,0,0.15);
+    font-family: 'Century Gothic';
+    font-weight: 700;
+    font-size: 16px;
+    color: white;
+}
+
+    .Dashboard-Card-3-btn:hover {
+        background: #424242;
+        color: white;
+    }
+
+.Dashboard-Card-4-p {
+    color: black;
+    font-family: 'Century Gothic';
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.Dashboard-Card-4-btn {
+    background: #0B3B2E;
+    border-radius: 6px;
+    width: 180px;
+    padding: 5px;
+    border: none;
+    box-shadow: 0 3px 10px 0 rgba(0,0,0,0.15);
+    font-family: 'Century Gothic';
+    font-weight: 700;
+    font-size: 16px;
+    color: white;
+}
+
+    .Dashboard-Card-4-btn:hover {
+        background: #424242;
+        color: white;
+    }
+
+.Dashboard-Card-5-p {
+    color: black;
+    font-family: 'Century Gothic';
+    font-size: 18px;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.Dashboard-setting-Card-1 {
+    background-color: #D1E9E4;
+    border-radius: 8px;
+    margin-top: 10px;
+    padding: 20px;
+}
+
+.Dashboard-setting-Card-1-h1 {
+    color: black;
+    font-family: 'Century Gothic';
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.Dashboard-setting-Card-1-h2 {
+    color: black;
+    font-family: 'Century Gothic';
+    padding-top: 10px;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.Dashboard-setting-Card-1-s1 {
+    color: red;
+    font-family: 'Century Gothic';
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.Dashboard-setting-Card-1-input1 {
+    height: 30px;
+    width: 70%;
+    border-radius: 3px;
+}
+
+.Dashboard-setting-Card-1-btn1 {
+    background: #0B3B2E;
+    border-radius: 6px;
+    width: 120px;
+    height: 30px;
+    border: none;
+    box-shadow: 0 3px 10px 0 rgba(0,0,0,0.15);
+    font-family: 'Century Gothic';
+    font-weight: 700;
+    font-size: 16px;
+    color: white;
+}
+
+    .Dashboard-setting-Card-1-btn1:hover {
+        background: #424242;
+        color: white;
+    }
+
+.Edit-profile-button {
+    background: #32B1D5;
+    border-radius: 6px;
+    width: 120px;
+    height: 30px;
+    border: none;
+    margin-top: 30px;
+    box-shadow: 0 3px 10px 0 rgba(0,0,0,0.15);
+    font-family: 'Century Gothic';
+    font-weight: 700;
+    font-size: 16px;
+    color: white;
+}
+
+    .Edit-profile-button:hover {
+        background: #EEA880;
+        color: white;
+    }
+
+
+
+
+
+
+/*************************************************************************************/
+
+
+body {
+    box-sizing: border-box;
+}
+
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 100%;
+}
+
+
+.circular--portrait {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+    .circular--portrait img {
+        width: 100%;
+        height: auto;
+    }
+
+.navbar-logo {
+    font-weight: bold;
+    font-size: 40px;
+    color: #05C4F4;
+    padding-left: 20px;
+    text-decoration: none !important;
+    margin-right: 15px;
+}
+
+.nav-link {
+    font-weight: bold;
+    color: #000000 !important;
+}
+
+    .nav-link:hover {
+        color: #5c5756 !important;
+    }
+
+
+.home-banner {
+    position: relative;
+}
+
+.home-banner-text {
+    position: absolute;
+    top: 50%;
+    left: 64%;
+    font-size: 5.5vw;
+    line-height: 0;
+    font-weight: 700;
+}
+
+.wrapper-our-doctor {
+    margin: 20px 0px;
+    padding: 50px 0;
+    background: rgba(10,10,10,0.1);
+}
+
+.our_doctor_heading {
+    color: #41C7DB;
+    font-size: 40px;
+    font-family: 'Segoe UI';
+    font-weight: bold;
+    margin-bottom: 45px;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.h1_border {
+    position: relative;
+    text-align: center;
+}
+
+    .h1_border:after {
+        position: absolute;
+        content: '';
+        height: 5px;
+        /* adjust this to move up and down. you may have to adjust the line height of the paragraph if you move it down a lot. */
+        bottom: -8px;
+        /****** 
+       optional values below 
+       ******/
+        /* center - (optional) use with adjusting width   */
+        margin: 0 auto;
+        left: 0;
+        right: 0;
+        width: 14%;
+        background: #41C7DB;
+        /* optional animation */
+        -o-transition: .5s;
+        -moz-transition: .5s;
+        -webkit-transition: .5s;
+        transition: .5s;
+    }
+
+
+.odabs_doctor {
+    display: flex;
+    justify-content: space-evenly;
+    box-sizing: border-box;
+}
+
+.odabs_doctor_member {
+    width: 20%;
+    text-align: center;
+}
+
+.p-s {
+    position: absolute;
+    box-sizing: border-box;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    height: 150px; /* [1.1] Set it as per your need */
+    width: 150px;
+    overflow: hidden; /* [1.2] Hide the overflowing of child elements */
+    /*border: 1px solid red;*/
+    border-radius: 100%;
+}
+
+    p img {
+        position: relative;
+        bottom: 11px;
+        transform-origin: 43% 46%;
+        transition: transform 1s, visibility .25s ease-in;
+    }
+
+
+    .odabs_doctor_img:hover img {
+        transform: scale(1.5);
+    }
+
+.video_conference_wrapper {
+    margin: 30px 0;
+    padding: 30px 0;
+}
+
+.video_conference {
+    display: flex;
+    justify-content: center;
+}
+
+    .video_conference img {
+        width: 30%;
+        margin-right: 40px;
+        border-radius: 3%;
+    }
+
+.vc_text {
+    width: 30%;
+}
+
+.vc_heading {
+    color: #41C7DB;
+    font-size: 40px;
+    font-family: 'Segoe UI';
+    font-weight: bold;
+    margin-bottom: 45px;
+    /*text-align: center;*/
+    /*padding-top: 15px;*/
+}
+
+.vc_btn {
+    display: block;
+    background: #05c4f4;
+    width: 300px;
+    height: 30px;
+    text-align: center;
+    /*margin: 0 auto;*/
+    color: white;
+    line-height: 25px;
+    text-decoration: none;
+}
+
+    .vc_btn:hover {
+        text-decoration: none;
+        color: black;
+    }
+
+.underline {
+    text-decoration: none;
+    position: relative;
+}
+
+    .underline:after {
+        position: absolute;
+        content: '';
+        height: 5px;
+        /* adjust this to move up and down. you may have to adjust the line height of the paragraph if you move it down a lot. */
+        bottom: -8px;
+        /****** 
+       optional values below 
+       ******/
+        /* center - (optional) use with adjusting width   */
+        margin: 0 auto;
+        left: 0;
+        /*right: 0;*/
+        width: 80%;
+        background: #41C7DB;
+        /* optional animation */
+        -o-transition: .5s;
+        -moz-transition: .5s;
+        -webkit-transition: .5s;
+        transition: .5s;
+    }
+
+.help_center_wrapper {
+    margin: 20px 0;
+    padding: 30px 0;
+    background: rgba(10,10,10,0.1);
+}
+
+.help_center {
+    display: flex;
+    justify-content: center;
+}
+
+    .help_center img {
+        width: 30%;
+        border-radius: 3%;
+    }
+
+.hc_text {
+    margin-right: 40px;
+}
+
+.hc_heading {
+    color: #41C7DB;
+    font-size: 40px;
+    font-family: 'Segoe UI';
+    font-weight: bold;
+    margin-bottom: 45px;
+    text-align: right;
+}
+
+
+.hc_heading_underline {
+    text-decoration: none;
+    position: relative;
+}
+
+    .hc_heading_underline:after {
+        position: absolute;
+        content: '';
+        height: 5px;
+        /* adjust this to move up and down. you may have to adjust the line height of the paragraph if you move it down a lot. */
+        bottom: -8px;
+        /****** 
+       optional values below 
+       ******/
+        /* center - (optional) use with adjusting width   */
+        margin: 0 auto;
+        /*left: 0;*/
+        right: 0;
+        width: 80%;
+        background: #41C7DB;
+        /* optional animation */
+        -o-transition: .5s;
+        -moz-transition: .5s;
+        -webkit-transition: .5s;
+        transition: .5s;
+    }
+
+.hc_btn {
+    float: right;
+    background: #05c4f4;
+    width: 300px;
+    height: 30px;
+    text-align: center;
+    color: white;
+    line-height: 25px;
+    text-decoration: none;
+}
+
+    .hc_btn:hover {
+        text-decoration: none;
+        color: black;
+    }
+
+
+.blog_wrapper {
+    margin: 20px 0px;
+    padding: 30px 0;
+}
+
+.blog_heading {
+    color: #41C7DB;
+    font-size: 40px;
+    font-family: 'Segoe UI';
+    font-weight: bold;
+    margin-bottom: 45px;
+    text-align: center;
+}
+
+.blog_heading_underline {
+    text-decoration: none;
+    position: relative;
+}
+
+
+.pres-table{
+    min-width: 900px;
+}
+
+    .blog_heading_underline:after {
+        position: absolute;
+        content: '';
+        height: 5px;
+        /* adjust this to move up and down. you may have to adjust the line height of the paragraph if you move it down a lot. */
+        bottom: -8px;
+        /****** 
+       optional values below 
+       ******/
+        /* center - (optional) use with adjusting width   */
+        margin: 0 auto;
+        left: 0;
+        right: 0;
+        width: 12%;
+        background: #41C7DB;
+        /* optional animation */
+        -o-transition: .5s;
+        -moz-transition: .5s;
+        -webkit-transition: .5s;
+        transition: .5s;
+    }
+
+
+
+.blog_body {
+    border: 1px solid red;
+    position: relative;
+}
+
+
+
+.blog_img_wrapper img {
+    box-sizing: border-box;
+    padding: 10px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.blog_card_title {
+    text-align: center;
+}
+
+.blog_card_body_text p {
+    margin-bottom: 10px;
+    text-align: justify;
+    word-break: break-word;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+    -moz-hyphens: auto;
+    hyphens: auto;
+}
+
+
+.blog_text_wrapper {
+    box-sizing: border-box;
+    padding: 20px 20px 35px 20px;
+}
+
+.btn_blog_read_more {
+    text-align: center;
+    text-decoration: none;
+    background: #05c4f4;
+    position: absolute;
+    width: 90%;
+    height: 30px;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    border: 1px solid white;
+    color: white;
+    margin-bottom: 10px;
+}
+
+
+    .btn_blog_read_more:hover {
+        color: black;
+        text-decoration: none;
+    }
+
+.footer_body_icon {
+    display: flex;
+    justify-content: center;
+}
+
+.footer_icon {
+    margin: 10px 0px 10px 0px;
+    border-right: 2px solid rgba(17, 173, 220, 0.5);
+    padding: 10px 15px;
+}
+
+    .footer_icon:last-child {
+        border: none;
+    }
+
+.footer_body_link {
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: center;
+}
+
+.what_we_treat_banner {
+    position: relative;
+}
+
+    .what_we_treat_banner img {
+        width: 100%;
+    }
+
+.what_we_treat_banner_text {
+    position: absolute;
+    top: 50%;
+    text-align: center;
+    left: 45%;
+    font-size: 6vw;
+    line-height: 0px;
+    font-weight: bold;
+    color: #05c4f4;
+}
+
+.description {
+    margin: 30px 0;
+    padding: 30px 0;
+}
+
+.description_title {
+    text-align: center;
+    color: #05c4f4;
+}
+
+.description_title_underline {
+    text-decoration: none;
+    position: relative;
+}
+
+    .description_title_underline:after {
+        position: absolute;
+        content: "";
+        height: 5px;
+        bottom: -8px;
+        margin: 0 auto;
+        left: 0;
+        right: 0;
+        width: 12%;
+        background: #05c4f4;
+    }
+
+.description_text {
+    box-sizing: border-box;
+    padding: 35px 50px 0;
+    text-align: justify;
+}
+
+
+.non_emergency_cases_wrapper {
+}
+
+
+.title {
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.title_underline {
+    text-decoration: none;
+    position: relative;
+}
+
+    .title_underline:after {
+        position: absolute;
+        content: '';
+        height: 5px;
+        /* adjust this to move up and down. you may have to adjust the line height of the paragraph if you move it down a lot. */
+        bottom: -8px;
+        /****** 
+       optional values below 
+       ******/
+        /* center - (optional) use with adjusting width   */
+        margin: 0 auto;
+        left: 0;
+        right: 0;
+        width: 80%;
+        background: #05c4f4;
+        /* optional animation */
+        -o-transition: .5s;
+        -moz-transition: .5s;
+        -webkit-transition: .5s;
+        transition: .5s;
+    }
+
+.second_section_wrapper p {
+    margin: auto;
+    width: 70%;
+    text-align: justify;
+    margin-bottom: 30px;
+}
+
+
+.second_section_body {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+    margin-bottom: 35px;
+}
+
+.second_section_part1 {
+    margin: 0 70px;
+    padding: 0 !important;
+}
+
+    .second_section_part1 li {
+        list-style-type: none;
+    }
+
+
+.login_option_wrapper {
+    margin: 20px 0;
+    text-align: center
+}
+
+    .login_option_wrapper h2 {
+        margin: 35px 0;
+    }
+
+
+.login_as_doctor, .login_as_patient {
+    position: relative;
+    padding: 10px;
+    align-items: stretch;
+}
+
+    .login_as_doctor img {
+        width: 100%;
+        height: 100%;
+        box-sizing: border-box;
+    }
+
+    .login_as_doctor a {
+        margin: auto;
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        width: 250px;
+        height: 50px;
+        text-decoration: none;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .login_as_doctor:hover {
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+
+    .login_as_patient:hover {
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+
+    .login_as_patient img {
+        width: 100%;
+        height: 100%;
+        box-sizing: border-box;
+    }
+
+
+    .login_as_patient a {
+        margin: auto;
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        width: 250px;
+        height: 50px;
+        text-decoration: none;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+.form-wrapper {
+    width: 650px;
+    margin: 0 auto;
+    box-shadow: 3px 2px 9px 0px rgba(0, 0, 0, 0.2), 17px 7px 17px 0 rgba(0, 0, 0, 0.19);
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+    .form-wrapper hr {
+        border: 1px solid black !important;
+        width: 100% !important;
+    }
+
+.form-group-wrapper {
+    width: 400px;
+}
+
+
+
+    .form-group-wrapper label {
+        max-width: 100% !important;
+    }
+
+.reg-button-color {
+    color: white;
+    background-color: #33b5e5 !important;
+    width: 100% !important;
+}
+
+
+
+/*doctor page ---------------------------------- section*/
+
+.middle_section_body {
+    position: relative;
+}
+
+/*.middle_section_body::after {
+        content: "";
+        position: absolute;
+        background-color: #666666;
+        width: 135.5%;
+        height: 1px;
+        bottom: -30px;
+        left: 50%;
+        transform: translate(-50%);
+    }*/
+
+.card_display {
+    display: flex;
+    position: relative;
+    box-shadow: 3px 2px 7px 0px rgba(0, 0, 0, 0.2), 17px 7px 23px 0 rgba(0, 0, 0, 0.10);
+    padding: 15px;
+    margin-top: 6px;
+    margin-bottom: 15px;
+}
+
+.card_img {
+    overflow: hidden;
+}
+
+
+    .card_img img {
+        width: 100%;
+    }
+
+.card_img_sec {
+    display: grid;
+}
+
+.doc_left_part a {
+    margin-top: 10px;
+}
+
+.card_img_sec a {
+    text-align: center !important;
+}
+
+.card_img_sec img {
+    width: 150px;
+    height: 250px;
+}
+
+.card_text_sec {
+    display: grid;
+    margin: 0 30px;
+}
+
+.doc_text label {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.card_text_sec button {
+    font-weight: 500;
+    color: #000000;
+    background-color: #05C4F4;
+}
+
+.side_body {
+    margin-top: 30px;
+    position: relative;
+    border-left: 1.5px solid black;
+    padding-left: 30px;
+}
+
+.side_body_form {
+    position: relative;
+}
+
+.specified_part {
+    margin-top: 50px;
+}
+
+.heading {
+    font-size: 25px;
+    font-weight: bold;
+    color: #05C4F4;
+    margin-left: 30px;
+    margin-top: 50px;
+}
+
+    .heading::after {
+        content: "";
+        position: absolute;
+        background-color: #41C7DB;
+        width: 40%;
+        height: 2px;
+        left: 35%;
+        transform: translate(-50%);
+    }
+
+.specified_part_list {
+    display: grid;
+    margin-left: 30px;
+}
+
+.specified_part_text h3 {
+    font-size: 15px;
+    font-weight: bold;
+    color: #000000;
+    border-bottom: 1px solid #666666;
+    text-align: left;
+    padding-top: 30px;
+}
+
+.justiy_context {
+    justify-content: center;
+}
+
+/*doctor page ---------------------------------- section*/
+
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content/Box */
+.modal-content {
+    background-color: #fefefe;
+    margin: 15% auto; /* 15% from the top and centered */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 50%; /* Could be more or less, depending on screen size */
+}
+
+.payment-btn {
+    color: white;
+    background-color: #33b5e5 !important;
+    width: 100% !important;
+}
+
+/* The Close Button */
+.close {
+    color: red;
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+    .close:hover,
+    .close:focus {
+        color: black;
+        text-decoration: none;
+        cursor: pointer;
+    }
+
+
+/*doctor profile view*/
+
+.doctor_profile_wrapper {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 40px;
+}
+
+.details_section {
+    padding: 6px 10px;
+    box-shadow: -1px -1px 1px 0px rgba(0, 0, 0, 0.2), 7px 7px 0px 0 rgba(0, 0, 0, 0.19);
+}
+
+.doctor_profile_wrapper div {
+    margin-right: 20px;
+}
+
+.doctor_profile_wrapper img {
+    width: 400px;
+}
+
+.doctor_profile_wrapper p {
+    font-size: 20px;
+}
+
+.doctor_profile_wrapper .img_section, .details_section {
+    flex: 1;
+    max-width: 400px;
+}
+
+.doctor_profile_wrapper .details_section {
+    text-align: left;
+}
+
+.sp_heading {
+    display: inline-block;
+    position: relative;
+    color: #41C7DB;
+    font-size: 25px;
+    font-family: 'Segoe UI';
+    font-weight: bold;
+    /*text-align: center;*/
+    /*padding-top: 15px;*/
+}
+
+
+
+.custom-underline:active {
+    color: #fff;
+    text-decoration: none;
+}
+
+.custom-underline::after {
+    content: "";
+    position: absolute;
+    top: 65%;
+    height: 2px;
+    width: 100%;
+    left: 5%;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+
+.payment-method-section img {
+    width: 60px;
+}
+
+img.ui-datepicker-trigger {
+    width: 32px;
+    box-sizing: border-box;
+    margin-bottom: 4px;
+    margin-left: 1px;
+}
+
+
+/*
+    Doctor Profile
+*/
+
+/* The side navigation menu */
+.sidenav {
+    height: 100%; /* 100% Full-height */
+    width: 0; /* 0 width - change this with JavaScript */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Stay on top */
+    top: 0;
+    left: 0;
+    background-color: #111; /* Black*/
+    overflow-x: hidden; /* Disable horizontal scroll */
+    padding-top: 60px; /* Place content 60px from the top */
+    transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
+}
+
+    /* The navigation menu links */
+    .sidenav a {
+        padding: 8px 8px 8px 32px;
+        text-decoration: none;
+        font-size: 25px;
+        font-family: Gotham;
+        color: #818181;
+        display: block;
+        transition: 0.3s
+    }
+
+        /* When you mouse over the navigation links, change their color */
+        .sidenav a:hover, .offcanvas a:focus {
+            color: #f1f1f1;
+        }
+
+    /* Position and style the close button (top right corner) */
+    .sidenav .closebtn {
+        position: absolute;
+        top: 0;
+        right: 25px;
+        font-size: 36px;
+        margin-left: 50px;
+    }
+
+.sidenav-bread {
+    display: block;
+    background: #9cdede2e;
+}
+
+    .sidenav-bread img {
+        width: 60px;
+        padding: 10px;
+    }
+
+.navbar-logo-doctor {
+    padding: 20px;
+    font-weight: bold !important;
+    font-size: 40px !important;
+    color: #05C4F4 !important;
+    text-decoration: none !important;
+    margin-right: 15px;
+}
+
+#main {
+    transition: margin-left .5s;
+    padding: 20px;
+}
+
+.appointment_wrapper {
+    margin: 5px;
+    padding: 10px 0 0 10px;
+    border: 1px solid;
+    box-shadow: 3px 5px #888888;
+}
+
+    .appointment_wrapper p {
+        font-size: 18px;
+        margin: 1px !important;
+    }
+
+    .appointment_wrapper button {
+        margin: 10px 0;
+    }
+
+        .appointment_wrapper button a {
+            margin: 10px 0 !important;
+            color: white !important;
+        }
+
+
+/**/
+.doctor-profile-image {
+    width: 100%;
+}
+
+.control-label {
+    font-weight: 700;
+}
+
+
+.search_wrapper {
+    margin: 5px;
+    padding: 0px;
+}
+
+
+/*
+    Patient Profile
+*/
+
+.p-heading {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+
+    .p-heading button {
+        margin-top: 15px;
+    }
+
+    .p-heading a {
+        color: white;
+        text-decoration: none;
+    }
+
+
+.left-side {
+}
+
+
+.confirm-wrapper {
+    color: #228a2a;
+}
+
+.page-link {
+    z-index: 0 !important;
+}
+
+
+/*Admin*/
+
+.stats-card-body {
+    box-shadow: 3px 2px 7px 0px rgba(0, 0, 0, 0.2), 17px 7px 23px 0 rgba(0, 0, 0, 0.10);
+}
+
+    .stats-card-body p {
+        font-size: 20px;
+    }
+
+.admin-doctor-img-wrapper {
+    padding: 1rem !important;
+}
+
+.admin-doctor-img {
+    width: 100% !important;
+}
+
+.admin-doctor-info {
+    padding: 1rem !important;
+    word-break: break-word;
+}
+
+.admin-doctor-card-right {
+    padding-left: 0px !important;
+}
+
+
+
+
+@media screen and (max-width: 375px) {
+    .second_section_body {
+        display: block;
+    }
+}
+
+
+@media screen and (max-width: 576px) {
+    .second_section_body {
+        display: block;
+    }
+
+    .middle_section_body {
+        flex-direction: column-reverse;
+    }
+
+    .odabs_doctor_member {
+        width: 50%;
+        text-align: center;
+    }
+
+    .video_conference img {
+        width: 100%;
+        margin-right: 40px;
+        border-radius: 3%;
+    }
+
+    .video_conference {
+        display: block;
+        justify-content: center;
+    }
+
+    .vc_text {
+        width: 100%;
+    }
+
+    .help_center {
+        display: flex;
+        justify-content: center;
+        flex-direction: column-reverse;
+    }
+
+        .help_center img {
+            width: 100%;
+            border-radius: 3%;
+            padding: 0 0px;
+        }
+
+    .help_center_wrapper {
+        padding: 30px;
+    }
+
+    .hc_heading {
+        text-align: left;
+    }
+
+    .hc_heading_underline:after {
+        left: 0;
+    }
+
+    .hc_btn {
+        float: left;
+    }
+}
+
+
+@media screen and (max-width: 1247px) {
+}
+
+/* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
+@media screen and (max-height: 450px) {
+    .sidenav {
+        padding-top: 15px;
+    }
+
+        .sidenav a {
+            font-size: 18px;
+        }
+}
+
+/********************All Button***************************/
+.booking-button-1 {
+    background: #1CB0E6;
+    border-radius: 6px;
+    width: 230px;
+    padding: 10px;
+    border: none;
+    box-shadow: 0 3px 10px 0 rgba(0,0,0,0.15);
+    margin: 15px 0 50px 0px;
+    font-family: 'Century Gothic';
+    font-weight: 700;
+    font-size: 18px;
+}
+
+    .booking-button-1:hover {
+        background: #0489B1;
+        color: white;
+    }
+
+.search-btn-1 {
+    background: #1CB0E6;
+    border-radius: 6px;
+    width: 130px;
+    border: none;
+    box-shadow: 0 3px 10px 0 rgba(0,0,0,0.15);
+    font-family: 'Century Gothic';
+    font-weight: 700;
+    font-size: 18px;
+}
+
+    .search-btn-1:hover {
+        background: #0489B1;
+        color: white;
+    }
+
+.btn-info-1 {
+    background: #1CB0E6;
+    border-radius: 6px;
+    width: 230px;
+    padding: 10px;
+    border: none;
+    color:white;
+    box-shadow: 0 3px 10px 0 rgba(0,0,0,0.15);
+    margin: 15px 0 50px 0px;
+    font-family: 'Century Gothic';
+    font-weight: 700;
+    font-size: 18px;
+}
+
+    .btn-info-1:hover {
+        background: #0489B1;
+        color: white;
+    }
+
+.btn-info-2 {
+    background: #1CB0E6;
+    border-radius: 6px;
+    width: 500px;
+    padding: 10px;
+    border: none;
+    color: white;
+    box-shadow: 0 3px 10px 0 rgba(0,0,0,0.15);
+    margin: 15px 0 5px 0px;
+    font-family: 'Century Gothic';
+    font-weight: 700;
+    font-size: 18px;
+}
+
+    .btn-info-2:hover {
+        background: #0489B1;
+        color: white;
+    }
+.btn-info-3 {
+    background: #1CB0E6;
+    border-radius: 6px;
+    width: 600px;
+    padding: 10px;
+    border: none;
+    color: white;
+    box-shadow: 0 3px 10px 0 rgba(0,0,0,0.15);
+    font-family: 'Century Gothic';
+    font-weight: 700;
+    font-size: 18px;
+}
+
+    .btn-info-3:hover {
+        background: #0489B1;
+        color: white;
+    }
+
+.btn-info-4 {
+    background: #1CB0E6;
+    border-radius: 6px;
+    width: 200px;
+    padding: 10px;
+    border: none;
+    color: white;
+    box-shadow: 0 3px 10px 0 rgba(0,0,0,0.15);
+    font-family: 'Century Gothic';
+    font-weight: 700;
+    font-size: 15px;
+}
+
+    .btn-info-4:hover {
+        background: #0489B1;
+        color: white;
+    }
+
+/********************All Heading***************************/
+.heading-h-1 {
+    color: #1CB0E6;
+    font-family: 'Segoe UI';
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,39 @@
+﻿
+@{
+    ViewBag.Title = "Login";
+}
+
+
+<div class="login_option_wrapper">
+
+    
+    <h2 class="heading-h-1">Please Select a Login Option</h2>
+
+
+    <div class="container login_options">
+
+        <div class="row">
+
+            <div class="col-md-6 col-sm-12">
+                <div class="login_as_doctor">
+                    
+                    <img src="~/Images/logintrainer1.jpg" />
+                    @Html.ActionLink("Login as Trainer", "Login", "TrainerAccount", new { area = "Trainer" }, new { @class = "btn btn-info-1" })
+                </div>
+            </div>
+            <div class="col-md-6 col-sm-12">
+                <div class="login_as_patient">
+                    <img src="~/Images/loginclient.jpg" />
+                   
+                    @Html.ActionLink("Login as Client", "Login", "Account", new { area = "" }, new { @class = "btn btn-info-1" })
+                </div>
+            </div>
+
+        </div>
+
+
+        
+
+
+    </div>
+</div>

@@ -1,0 +1,54 @@
+﻿
+
+@model GETFiT.Models.Trainer
+
+
+
+@{ ViewBag.Title = "Trainer Profile"; }
+
+
+<div class="doctor_profile_wrapper">
+
+    <div class="img_section">
+        <div class="img_section">
+            <img src=@Model.ImageFilePath />
+            <h4>@Model.User.Name</h4>
+        </div>
+        @Html.ActionLink("Confirm", "Appointments", "Account", new { area = "" }, new { @class = "btn reg-button-color" })
+        
+    </div>
+
+    <div class="details_section">
+        <div class="sp_heading ">
+            <p class="underline"><i class="fas fa-briefcase-medical"></i> Speciality</p>
+        </div>
+        <div class=""><p>@Model.Speciality</p></div>
+       
+        <hr>
+
+        <div class="sp_heading ">
+            <p class="underline"><i class="fas fa-phone"></i> Phone</p>
+        </div>
+        <div><p>@Model.User.PhoneNumber</p></div>
+        <hr>
+
+        <div class="sp_heading ">
+            <p class="underline"><i class="fas fa-at"></i> Email</p>
+        </div>
+        <div><p>@Model.User.Email</p></div>
+        <hr />
+        <div class="sp_heading ">
+            <p class="underline"><i class="fas fa-clock"></i> Available Hours</p>
+        </div>
+        <div><p>@Model.StartTime - @Model.EndTime </p> </div>
+
+        <hr />
+        <div class="sp_heading ">
+            <p class="underline"><i class="fas fa-clock"></i>Appointment Time</p>
+        </div>
+        @Html.EditorFor(app => app.StartTime, new { htmlAttributes = new { @class = "form-control" } })
+       
+
+    </div>
+
+</div>

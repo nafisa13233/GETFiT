@@ -1,0 +1,84 @@
+﻿@using Microsoft.AspNet.Identity
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <script src="https://kit.fontawesome.com/1c17e31fd4.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/timepicker@1.13.14/jquery.timepicker.css" />
+    <link href="~/Content/jquery-ui-1.12.1/jquery-ui-1.12.1/jquery-ui.min.css" rel="stylesheet" />
+    <link href="//cdn.datatables.net/1.10.22/css/jquery.dataTables.min.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="container-fluid body-content">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+
+            <a href="#"><img src="~/Images/GETFiT.png" class="logo" /></a>
+            @*<a class="navbar-logo admin" href="#">Admin</a>*@
+
+            
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+
+
+                    @if (Request.IsAuthenticated)
+                    {
+            <li class="nav-item">
+                @Html.ActionLink("Home", "Index", "Home", new { area = "Admin" }, new { @class = "nav-link" })
+            </li>
+
+                            <li class="nav-item">
+                                @Html.ActionLink("View Appointments", "Appointments", "Home", new { area = "Admin" }, new { @class = "nav-link" })
+                            </li>
+
+                                            <li class="nav-item">
+                                                @Html.ActionLink("Trainers", "Trainers", "Home", new { area = "Admin" }, new { @class = "nav-link" })
+                                            </li>
+
+                                                            <li class="nav-item">
+                                                                @Html.ActionLink("Clients", "Clients", "Home", new { area = "Admin" }, new { @class = "nav-link" })
+                                                            </li>
+}
+
+                </ul>
+
+
+                @if (Request.IsAuthenticated)
+                {
+                    using (Html.BeginForm("LogOff", "AdminAccount", FormMethod.Post, new { id = "logoutForm", @class = "navbar-right" }))
+                    {
+                        @Html.AntiForgeryToken()
+
+                        <ul class="nav navbar-nav navbar-right">
+
+                            <li class="nav-item dropdown">
+                               
+                                <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false"> @User.Identity.Name </a>
+                                <div class="dropdown-menu">
+                                    @Html.ActionLink("View Profile", "MyProfile", "AdminAccount", new { area = "Admin" }, new { @class = "dropdown-item nav-link" })
+                                </div>
+                            </li>
+
+                            <li><a href="javascript:document.getElementById('logoutForm').submit()" class="nav-link">Sign Out</a></li>
+                        </ul> }
+                }
+
+            </div>
+        </nav>
+        @RenderBody()
+        <hr />
+        @Html.Partial("_Footer");
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>
