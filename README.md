@@ -15,7 +15,7 @@ After first run database named "GETFiT" will be created. Then insert the followi
 
 Id	Name
 1	Admin
-2	Doctor
-3	Patient
+2	Trainer
+3	Client
 
 After inserting data run the project from Admin/AdminAccount/AdminLogin page.
